@@ -210,6 +210,8 @@ A: 将软件添加到信任列表或白名单
 SPEC_GUI/
 ├── main.py              # 主程序
 ├── SPEC_parallel.py     # 并行计算核心
+├── icon.py              # base64 存储的图标数据
+├── icon_SPEC.ico        # 应用程序主图标
 ├── asserts/             # 说明图片
 └── ICON_DESIGN/         # 图标相关
 ```
