@@ -140,10 +140,10 @@ pyinstaller -F -w -i icon_SPEC.ico main.py
 
 - 多核CPU并行处理
 
+- 智能内存管理和数据分块
+
 > ![内存介绍](asserts/内存介绍.png)
 > 计算过程中内存变化示意图
-
-- 智能内存管理和数据分块
 
 > ![分区计算示意图](asserts/分区计算示意图.jpg)
 > 分块运算示意图
