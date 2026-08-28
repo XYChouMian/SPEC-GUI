@@ -1,0 +1,24 @@
+__pycache__/
+SPEC发布/
+test/
+build/
+dist/
+
+
+*.pdf
+*.docx
+*.psd
+*副本*
+
+
+# icon 相关
+*icon_SPEC_*
+
+# 代码相关
+event_test*
+*test.py
+ICON_DESIGN.py
+SPEC_*
+!SPEC_parallel.py
+
+
