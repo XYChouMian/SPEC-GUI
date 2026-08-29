@@ -4,12 +4,12 @@ test/
 build/
 dist/
 
-
+# 中间文件
 *.pdf
 *.docx
 *.psd
 *副本*
-
+main.spec
 
 # icon 相关
 *icon_SPEC_*
