@@ -1,1 +1,1 @@
-python -m PyInstaller -F -w -i icon_SPEC.ico -n "SPEC" main.py
+python -m PyInstaller -F -w -i icon_SPEC.ico -n "SPEC_GUI" main.py

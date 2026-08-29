@@ -44,7 +44,7 @@ python main.py
 pip install pyinstaller
 
 # 打包命令
-python -m PyInstaller -F -w -i icon_SPEC.ico -n "SPEC" main.py
+python -m PyInstaller -F -w -i icon_SPEC.ico -n "SPEC_GUI" main.py
 ```
 
 **参数说明**：
